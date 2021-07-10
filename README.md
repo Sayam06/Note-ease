@@ -9,3 +9,22 @@ Talking about security and privacy, all the data is stored locally, that is, you
 The app is free to use as well as advertisement-free, so that the users can have the best in-app experience out there.
 
 If you found "Note-ease" helpful, please don't forget to leave a review and a rating on the Play Store :)
+
+
+![Feauture Graphic](https://user-images.githubusercontent.com/73817603/125175680-48361480-e1eb-11eb-9e4b-46e858c71a6c.png)
+
+
+![1](https://user-images.githubusercontent.com/73817603/125175667-410f0680-e1eb-11eb-94b2-db9d1352f3a3.png)
+
+
+![2](https://user-images.githubusercontent.com/73817603/125175671-42403380-e1eb-11eb-849f-8a708f673890.png)
+
+
+![3](https://user-images.githubusercontent.com/73817603/125175672-43716080-e1eb-11eb-9fb2-ffe73f09b18a.png)
+
+
+![4](https://user-images.githubusercontent.com/73817603/125175673-4409f700-e1eb-11eb-9197-2d9e5ef9cc87.png)
+
+
+![5](https://user-images.githubusercontent.com/73817603/125175676-453b2400-e1eb-11eb-9e70-063346a7f15b.png)
+
